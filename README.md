@@ -100,7 +100,7 @@ cd Project255
 ## Project Structure
 
 ```
-crypto-trading-simulator/
+crypto_trading_simulator/
 ├── index.html         # Main application entry point
 ├── app.js             # Core application logic
 ├── app.css            # Styling and layout
