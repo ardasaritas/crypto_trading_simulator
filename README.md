@@ -41,7 +41,7 @@ A web-based educational cryptocurrency trading platform that simulates real-worl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ardasaritas/github_remake_255.git
+git clone https://github.com/ardasaritas/crypto_trading_simulator.git
 cd Project255
 ```
 
