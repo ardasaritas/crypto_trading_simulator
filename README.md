@@ -2,6 +2,10 @@
 
 A web-based educational cryptocurrency trading platform that simulates real-world crypto trading using historical market data from 2021.
 
+## Demo
+
+<video src="https://raw.githubusercontent.com/ardasaritas/crypto_trading_simulator/main/details/Demo.webm" controls width="100%"></video>
+
 ## Features
 
 ### Trading Simulation
