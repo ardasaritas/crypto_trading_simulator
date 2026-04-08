@@ -4,7 +4,7 @@ A web-based educational cryptocurrency trading platform that simulates real-worl
 
 ## Demo
 
-[![Watch the demo](https://raw.githubusercontent.com/ardasaritas/crypto_trading_simulator/main/details/crypto-thumbnail.jpg)](https://github.com/ardasaritas/crypto_trading_simulator/blob/main/details/Demo.webm)
+<video src="https://github.com/user-attachments/assets/bb7b9069-8801-4b75-b689-d6930f77c9f4" controls width="100%"></video>
 
 ## Features
 
